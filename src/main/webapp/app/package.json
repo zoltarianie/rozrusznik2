@@ -1,0 +1,35 @@
+{
+  "name": "rozrusznik",
+  "version": "1.0.0",
+  "dependencies": {
+    "gulp-install": "^0.6.0"
+  },
+  "devDependencies": {
+    "del": "*",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "*",
+    "gulp-concat": "*",
+    "gulp-debug": "*",
+    "gulp-flatten": "*",
+    "gulp-html2js": "*",
+    "gulp-ignore": "*",
+    "gulp-inject": "*",
+    "gulp-less": "*",
+    "gulp-order": "*",
+    "gulp-rename": "*",
+    "gulp-rev": "*",
+    "gulp-uglify": "*",
+    "gulp-util": "*",
+    "gulp-watch": "*",
+    "merge-stream": "*",
+    "path": "*",
+    "wiredep": "*"
+  },
+  "main": "gulpfile.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

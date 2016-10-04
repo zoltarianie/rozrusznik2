@@ -1,0 +1,23 @@
+{
+  "name": "rozrusznik",
+  "version": "2.0",
+  "devDependencies": {
+    "angular": "~1.5.5",
+    "angular-ui-router": "*",
+    "angular-translate": "*",
+    "angular-resource": "*",
+    "angular-sanitize": "*",
+    "angular-hateoas": "*",
+    "ngstorage": "*",
+    "fontawesome": "*",
+    "jquery": "*",
+    "jquery-ui": "*",
+    "bootstrap": "*",
+    "leaflet": "*",
+    "moment": "*",
+    "slimscroll": "*",
+    "angular-base64-upload": "*",
+    "angular-animate": "*"
+  },
+  "dependencies": {}
+}
